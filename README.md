@@ -31,6 +31,6 @@ To install the project, navigate to the directory and run:
 
 Run
 
-To run the project, run the following commands:
+To run the project, run the following command:
 
 - `npm start`
